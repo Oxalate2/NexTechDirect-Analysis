@@ -14,7 +14,7 @@ A look into how refund behavior varied across Apple's product lineup and whether
 
 The Entity Relationship Diagram can be found [here](https://github.com/Oxalate2/NexTechDirect_Analysis/blob/main/ERD.png).
 
-The SQL queries used to uncover these insight can be found [here](https://github.com/Oxalate2/NexTechDirect_Analysis/blob/main/queries.sql).
+The SQL queries used to uncover these insights can be found [here](https://github.com/Oxalate2/NexTechDirect_Analysis/blob/main/queries.sql).
 
 # Key Insights
 ## Sales Overview
